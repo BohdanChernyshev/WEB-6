@@ -1,0 +1,12 @@
+ body {
+        margin: 0 auto;
+		padding: 0 auto;
+        color: #dbe7e9;
+        background-color: grey;
+		text-align: center
+      }
+
+      p {
+        padding-left: 50px;
+        font-size: 20px;
+      }
